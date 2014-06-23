@@ -795,10 +795,24 @@
 
     <!-- The default homepage. -->
     <string name="homepage_base" translatable="false">
-        https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+        http://sonic-developers.com</string>
 
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
+        <item>Portal Sonic-Developers</item>
+        <item>http://sonic-developers.com</item>
+        <item>Forum Sonic-Developers</item>
+        <item>http://forum.sonic-developers.com</item>
+        <item>Downloads</item>
+        <item>http://sonic-developers.com/?page_id=11</item>
+        <item>Gallery</item>
+        <item>http://sonic-developers.com/?page_id=438</item>
+        <item>Change-Log</item>
+        <item>http://sonic-developers.com/?page_id=213</item>
+        <item>Donate To SOKP</item>
+        <item>http://sonic-developers.com/?page_id=219</item>
+        <item>Wikipedia</item>
+        <item>http://www.wikipedia.org/</item>
         <item>Google</item>
         <item>http://www.google.com/</item>
         <item>Picasa</item>
@@ -811,20 +825,6 @@
         <item>http://twitter.com/</item>
         <item>Facebook</item>
         <item>http://www.facebook.com/</item>
-        <item>Wikipedia</item>
-        <item>http://www.wikipedia.org/</item>
-        <item>eBay</item>
-        <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/</item>
-        <item>NY Times</item>
-        <item>http://www.nytimes.com/</item>
-        <item>ESPN</item>
-        <item>http://espn.com/</item>
-        <item>Amazon</item>
-        <item>http://www.amazon.com/</item>
-        <item>Weather Channel</item>
-        <item>http://www.weather.com/</item>
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
